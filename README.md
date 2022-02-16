@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David
-- 👀 I’m currently interested in AI & Python back-end programming.
+- 👀 I’m currently interested in Data Analysis, AI & Python back-end programming.
 - 🌱 I’m currently learning Data Science & Machine Learning.
 - 💞️ I’m looking to collaborate on anything that goes along with the topics presented above.
 - 📫 How to reach me: If not on Github, perhaps on Linkedin (/david-santos-45b889212/)
